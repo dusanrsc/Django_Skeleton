@@ -1,1 +1,1 @@
-"# Django_Skeleton" 
+# Django_Skeleton
